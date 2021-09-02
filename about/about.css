@@ -1,0 +1,73 @@
+body{
+    margin: 0px;
+}
+
+.con {
+    background-color: #f3f3f3;;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.context {
+    height: 50%;
+    margin-top: 25px;
+    color: #555;
+    
+    font-size: 17px;
+    line-height: 18px;
+    text-align: center;
+}
+
+.contexth1 {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 80px;
+}
+
+
+.context img {
+    width: 500px;
+    height: 300px;
+    
+}
+.foote {
+    height: 150px;
+    background-color: #222;
+    padding-top: 20px;
+    
+}
+
+
+  
+.contact_icon {
+    width: 18%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.contact_icon a img {
+    width: 50px;
+    height: 50px;
+    margin-top: 2px;
+    margin-right: 55px;
+    
+}
+
+.menua {
+    width: 500px;
+    margin-top: 20px;
+}
+
+.menua ul li {
+    list-style-type: none;
+    font-size: 20px;
+    color: rgb(255, 255, 255)
+  }
+
+.logoata img{
+    width: 70px;
+    height: 70px;
+    margin-left: 1980px;
+    margin-top: -203px;
+}
